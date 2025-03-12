@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+/build/
+*.exe
+*.out
+*.o
+
+# Ignore CMake cache and temp files
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore Windows-specific files
+Thumbs.db  # Windows

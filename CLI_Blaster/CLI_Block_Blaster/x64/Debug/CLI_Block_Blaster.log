@@ -1,6 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Block_Blaster.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  CLI_Block_Blaster.cpp
-C:\Users\guilh\Downloads\Blaster\CLI_Block_Blaster\CLI_Block_Blaster\CLI_Block_Blaster.cpp(143,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\guilh\Downloads\Blaster\CLI_Block_Blaster\CLI_Block_Blaster\CLI_Block_Blaster.cpp(206,61): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
-C:\Users\guilh\Downloads\Blaster\CLI_Block_Blaster\CLI_Block_Blaster\CLI_Block_Blaster.cpp(224,33): warning C4101: 'e': variável local não referenciada
-  CLI_Block_Blaster.vcxproj -> C:\Users\guilh\Downloads\Blaster\CLI_Block_Blaster\x64\Debug\CLI_Block_Blaster.exe
